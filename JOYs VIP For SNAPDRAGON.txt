@@ -1,6 +1,5 @@
 gg.alert("Search Your IP...")
 gg.alert("IP Registered!")
-gg.alert ("Thanks for BUY Scripter")
 gg.alert ("JOYs Scripter PUBG Mobile 0.16.0")
 local username = gg.prompt({
   "Enter Your IP Username"
@@ -2003,7 +2002,7 @@ gg.searchNumber('3.78922605515', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(5)
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber('20000;750;0.0001;0.0005 ', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber('20000;750;0.0001;0.0005', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber('0.0005', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll('0.1', gg.TYPE_FLOAT)
